@@ -6,3 +6,5 @@
 * Flexbox
 * БЭМ
 * Nested БЭМ
+
+[Проектная работа на GitHub Pages](https://jayqube.github.io/how-to-learn/index.html)
